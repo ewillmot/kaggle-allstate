@@ -1,7 +1,11 @@
 kaggle-allstate
 ==============================
 
-Predict Allstate claim severity
+Predict Allstate claim severity.
+
+Deadline: Mon, 12 Dec, 2016
+
+https://www.kaggle.com/c/allstate-claims-severity 
 
 Project Organization
 ------------
